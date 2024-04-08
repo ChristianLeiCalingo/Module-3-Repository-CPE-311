@@ -7,3 +7,7 @@ https://colab.research.google.com/drive/1cdSISINa79w8CqnhO0y55ktKLcVqasU7#scroll
 Assignment 3.2 Colab Link:
 
 https://colab.research.google.com/drive/1CNanTdl9iE5pK_d2zdLG7x-vEL9cfQG1?usp=sharing
+
+Hands on Activity 3.1 Colab Link:
+
+https://colab.research.google.com/drive/1N_K_stOLdVrpq-6bbm1zK6eFVCCTePR_?authuser=1#scrollTo=NBqKnyqlRuqd
